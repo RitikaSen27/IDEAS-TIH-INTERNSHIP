@@ -84,5 +84,5 @@ This project demonstrates how **unsupervised learning** (K-Means clustering) com
 ---
 
 ## 👩‍💻 Author
-- **Your Name**  
+- Ritika Sen 
 - Data Science Student | Exploring ML & AI  

@@ -1,4 +1,10 @@
-# IDEAS TIH Internship Project
+Hi, I'm Ritika 👋
 
-This repository contains the work done as part of the IDEAS – Technology Innovation Hub Internship.
-Test change from GitHub Desktop troubleshooting
+I'm a Computer Science student interested in Python and open-source development.
+Currently preparing for Google Summer of Code 2026.
+
+Skills:
+- Python
+- C
+- Git & GitHub
+
